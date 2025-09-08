@@ -19,7 +19,7 @@ Tespit edilen saldırılar MITRE ATT&CK framework’ü ile eşleştirilir ve det
 - [x] **Excel Raporlama:** Otomatik sütun genişliği ayarlı rapor (`.xlsx`) oluşturur  
 - [x] **Zaman Filtresi:** Belirtilen tarih aralığında analiz yapar
 
-## Kod terminalde çalişip tarih bilgileri ve excel raporu istenip istenilmediği sorulduktan sonra özet bir rapor gösterir.
+## 💻 Kod terminalde çalişip tarih bilgileri ve excel raporu istenip istenilmediği sorulduktan sonra özet bir rapor gösterir
 
 <img width="528" height="257" alt="image" src="https://github.com/user-attachments/assets/94946b05-45c0-486f-9e8a-6b3db7e99df6" />
 
