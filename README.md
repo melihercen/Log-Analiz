@@ -1,4 +1,4 @@
-# 🛡️ Log Analız Aracı
+# 🛡️ Log Analiz Aracı
 
 Bu proje, **web sunucusu erişim loglarını (access.log)** analiz ederek olası saldırıları tespit eder.  
 Tespit edilen saldırılar MITRE ATT&CK framework’ü ile eşleştirilir ve detaylı rapor hazırlanır.  
