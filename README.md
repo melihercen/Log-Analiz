@@ -21,19 +21,7 @@ Tespit edilen saldırılar MITRE ATT&CK framework’ü ile eşleştirilir ve det
 
 # Kod terminalde çalişip tarih bilgileri ve excel raporu istenip istenilmediği sorulduktan sonra özet bir rapor gösteriyor.
 
+<img width="528" height="257" alt="image" src="https://github.com/user-attachments/assets/94946b05-45c0-486f-9e8a-6b3db7e99df6" />
 
-İstediğiniz zaman aralığını girin.
-Başlangıç tarihi ve saati (YYYY-AA-GG HH:MM:SS formatında, boş bırakırsanız filtresiz):
-Bitiş tarihi ve saati (YYYY-AA-GG HH:MM:SS formatında, boş bırakırsanız filtresiz): 
-Excel raporu oluşturulsun mu? (E/H): h
-============================================================
-ANALİZ ÖZET RAPORU
-Excel raporu oluşturuldu
-Toplam Belirlenen Attak : 42
-Saldırı Tipi Dağılımı:
-Command Injection : 5 adet
-SQL Injection : 20 adet
-XSS : 17 adet
-Şüpheli IPler:
-192.168.1.10 : 25 adet şüpheli aktivite
+
 
