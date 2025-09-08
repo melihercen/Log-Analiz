@@ -22,9 +22,10 @@ Tespit edilen saldırılar MITRE ATT&CK framework’ü ile eşleştirilir ve det
 # Kod terminalde çalişip tarih bilgileri ve excel raporu istenip istenilmediği sorulduktan sonra özet bir rapor gösteriyor.
 
 
-Başlangıç tarihi ve saati (YYYY-AA-GG HH:MM:SS): 2025-08-19 00:00:00
-Bitiş tarihi ve saati (YYYY-AA-GG HH:MM:SS): 2025-08-20 00:00:00
-Excel raporu oluşturulsun mu? (E/H): e
+İstediğiniz zaman aralığını girin.
+Başlangıç tarihi ve saati (YYYY-AA-GG HH:MM:SS formatında, boş bırakırsanız filtresiz):
+Bitiş tarihi ve saati (YYYY-AA-GG HH:MM:SS formatında, boş bırakırsanız filtresiz): 
+Excel raporu oluşturulsun mu? (E/H): h
 ============================================================
 ANALİZ ÖZET RAPORU
 Excel raporu oluşturuldu
