@@ -13,7 +13,7 @@ Tespit edilen saldırılar MITRE ATT&CK framework’ü ile eşleştirilir ve det
   - SSRF (Server-Side Request Forgery)
   - Path Traversal
   - Command Injection
-- [x] **Coğrafi Konum Analizi:** IP adreslerini GeoLite2-City veritabanı ile ülke/şehir bazında raporlar  
+- [x] **Coğrafi Konum Analizi:** IP adreslerini GeoLite2-City veritabanı ile ülke/şehir bazında raporlar.İndirme linki : https://dev.maxmind.com/geoip/geolite2-free-geolocation-data/  
 - [x] **Saldırı Aracı Tespiti:** `User-Agent` üzerinden sqlmap, Burp Suite, OWASP ZAP, Nikto tespiti  
 - [x] **MITRE ATT&CK Mapping:** Her saldırıyı MITRE teknikleri ve taktikleri ile eşleştirir  
 - [x] **Excel Raporlama:** Otomatik sütun genişliği ayarlı rapor (`.xlsx`) oluşturur  
